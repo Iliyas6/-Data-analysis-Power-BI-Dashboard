@@ -20,6 +20,10 @@ Orders.csv – Order-level data including product, quantity, and revenue
 
 Details.csv – Additional dataset containing product and customer details
 
+📈 Dashboard Preview
+![Uploading Dashboard_Screenshot.png…]()
+
+
 🧠 Tools & Skills Used:
 
 Power BI
